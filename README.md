@@ -66,7 +66,7 @@ CE marking, and post-market surveillance.
 
 - 🌐 Platform: [cra-ready.de](https://www.cra-ready.de)
 - 🇪🇺 EU Hub: [cra-ready.eu](https://www.cra-ready.eu)
-- 💼 LinkedIn: [CRA Ready](https://www.linkedin.com/company/cra-ready)
+- 💼 LinkedIn: [CRA Ready](https://www.linkedin.com/company/cra-ready-platform)
 
 ---
 
