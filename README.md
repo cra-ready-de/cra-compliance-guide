@@ -73,3 +73,13 @@ CE marking, and post-market surveillance.
 ## License
 
 CC0 1.0 Universal — see [LICENSE](LICENSE)
+
+## Regional Platforms
+
+- 🇩🇪 [cra-ready.de](https://www.cra-ready.de) — Germany (primary)
+- 🇪🇺 [cra-ready.eu](https://www.cra-ready.eu) — European Union
+- 🇬🇧 [cra-ready.uk](https://www.cra-ready.uk) — United Kingdom
+- 🇫🇷 [cra-ready.fr](https://www.cra-ready.fr) — France
+- 🇮🇹 [cra-ready.it](https://www.cra-ready.it) — Italy
+- 🇳🇱 [cra-ready.nl](https://www.cra-ready.nl) — Netherlands
+- 🇵🇱 [cra-ready.pl](https://www.cra-ready.pl) — Poland
